@@ -46,11 +46,4 @@ krishimitra/
 ├── shop.html            # Farmer shop
 ├── finance.html         # Financial tools
 │
-├── assets/              # Images, icons, logos
-├── css/                 # Stylesheets (custom + Tailwind)
-├── js/                  # Scripts (translations, memory, UI)
-│   ├── translate.js
-│   ├── ui.js
-│   └── api.js
-│
 ├── README.md            # Project documentation
